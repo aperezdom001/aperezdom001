@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aperezdom001&show_icons=true&locale=en&theme=radical&layout=compact" alt="aperezdom001" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aperezdom001&layout=compact)](https://github.com/aperezdom001/github-readme-stats)
