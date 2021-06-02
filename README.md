@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aide</h1>
-<h3 align="center">I am a front end engineer with a background in multimedia art who is enthusiastic about the user experience in art and technology to create different perspectives and views.</h3>
+<h3 align="center">I am a front end developer with a background in multimedia art who is enthusiastic about the user experience in art and technology to create different perspectives and views.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aperezdom001&label=Profile%20views&color=0e75b6&style=flat" alt="aperezdom001" /> </p>
 
